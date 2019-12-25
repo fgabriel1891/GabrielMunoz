@@ -82,49 +82,99 @@ Diving (OW), Field and travel logistics, Camping techniques.
 
 # Participation in conferences 
 
-MediaLab UIO  2018
+## 2019 
 
-**talk** Skillful data management and Reproducible Science 
+**10th QCBS Annual Symposium 2019 (Montreal-Canada)** 
+- talk: The assembly of a multitrophic network in a novel alpine ecosystem
+- poster: New insights in the assembly of multitrophic interactions 
 
-**workshop leader** Skillful data management and Reproducible Science 
+**IBS Quito – Humboldt's 250th Conference (Quito-Ecuador)** 
+- talk: A synthesis of animal‐mediated seed dispersal of palms reveals distinct biogeographical differences in species interactions. 
+- talk: Mining literature to unlock biodiversity data at the species level
+- poster: Biodiversity impacts of non-native lodgepole pine invasions across trophic levels
 
-I Latin American Congress of Biogeography (Tena-Ecuador)  2017
+## 2017
 
-- **talk**: "Macroecología y Connectividad de las interacciones Raphia-Tapir en Costa Rica y Nicaragua" (Muñoz, G, Seijmonsbergen, H & Onstein, R.)
+**I Latin American Congress of Biogeography (Tena-Ecuador)**  
 
-- **poster**: Biodiversity Observations Miner: Mining primary biodiversity data from published (scientific) literature (*2nd best scientific poster*)  (Muñoz, G. van Loon, E. & W. D. Kissling)
+- talk: "Macroecología y Connectividad de las interacciones Raphia-Tapir en Costa Rica y Nicaragua" 
 
-Netherlands Annual Ecology Meeting - NAEM. (The Netherlands)  2017
+- poster: Biodiversity Observations Miner: Mining primary biodiversity data from published (scientific) literature (*2nd best scientific poster*)
 
-- **poster**: Biogeography of species interactions: Integrating palm-frugivore seed dispersal observations and functional traits at macroecological scales. (Muñoz G. & W. D. Kissling)
+**Netherlands Annual Ecology Meeting - NAEM (Luteren-The Netherlands)**
 
-Networks in Ecology - NERN. (The Netherlands)  2016
+- poster: Biogeography of species interactions: Integrating palm-frugivore seed dispersal observations and functional traits at macroecological scales.
 
-21st Benelux Congress of Zoology. (The Netherlands)  2015
+## 2016
 
-IV Colombian Congress of Zoology (Colombia)   2014
+**Networks in Ecology - NERN. (The Netherlands)**
 
-- **talk**: Estructura de la comunidad de arañas tejedoras (Araneae:Araneidae) en un gradiente altitudinal en los bosques nublados de los Andes del Nor-oriente Ecuatoriano (*Travel award*) (Muñoz, G & Cisneros-Heredia, D.F.)
+## 2015 
 
-- **poster**: Avances en el conocimiento sobre la diversidad de arañas de la familia Araneidae en Ecuador. (Cisneros-Heredia, D.F. & Muñoz, G.)
+**21st Benelux Congress of Zoology. (Amsterdam-The Netherlands)**
 
-IV Ecuadorian Ornitology Reunion (REO) (*Travel award*)  2014
+## 2014 
 
-VII Symposium "Ciencia de jovenes para jovenes"- Amor Naturae Week, (Ecuador).  2014
+**IV Colombian Congress of Zoology (Cartagena-Colombia)**  
 
-- **talk**: Sistema Nacional de Áreas Protegidas, Amenazas, Manejo y Percepción de la comunidad
+- talk: Estructura de la comunidad de arañas tejedoras (Araneae:Araneidae) en un gradiente altitudinal en los bosques nublados de los Andes del Nor-oriente Ecuatoriano (*Travel award*)
+- poster: Avances en el conocimiento sobre la diversidad de arañas de la familia Araneidae en Ecuador.
 
-VI Symposium "Ciencia de jovenes para jovenes"- Amor Naturae Week.  2013
+**IV Ecuadorian Ornitology Reunion (REO) (*Travel award*) (Ecuador)**  
 
-- **talk**: Modelamiento del nicho ecológico del Tinamou de Berlepshi para Colombia y Ecuador. Implicacions para la conservación de los bosques del Chocó.
+**VII Symposium "Ciencia de jovenes para jovenes"- Amor Naturae Week, (Quito-Ecuador)**
 
-IV Symposium "Ciencia de jovenes para jovenes"- Amor Naturae Week (Ecuador).  2012
+- talk: Sistema Nacional de Áreas Protegidas, Amenazas, Manejo y Percepción de la comunidad
 
-- **talk**: Diversidad genética de las poblaciones de ballenas jorobadas en la costa nor-ecuatoriana. 
+## 2013
+
+**VI Symposium "Ciencia de jovenes para jovenes"- Amor Naturae Week (Quito-Ecuador)**
+
+- talk: Modelamiento del nicho ecológico del Tinamou de Berlepshi para Colombia y Ecuador. Implicacions para la conservación de los bosques del Chocó.
+
+**IV Symposium "Ciencia de jovenes para jovenes"- Amor Naturae Week (Quito-Ecuador)**  
+
+-talk: Diversidad genética de las poblaciones de ballenas jorobadas en la costa nor-ecuatoriana. 
+
+
+# Teaching and Outreach 
+
+## 2019 
+
+**QCBS R Workshop series**
+-presenter: Loading and manipulating data in R | Programming in R 
+-revamper: Loading and manipulating data in R | Multivariate statistics 
+
+**QCBS R 2019 Symposia**
+- workshop leader: Text mining scientific literature 
+
+**QCBS Biodiversity Intensive Course** 
+-section co-teacher: Biogeographic regionalization 
+
+## 2018 
+
+**QCBS R Workshop series**
+-presenter: Programming in R 
+-revamper: Introduction to R | Loading and manipulating data in R
+
+**MediaLab UIO**
+-talk: Skillful data management and Reproducible Science 
+-workshop: Skillful data management and Reproducible Science 
+
 
 # Scholarships and Awards
 
 ## Scholarships
+
+
+
+Concordia University Graduate Fellowship   2018-2021
+
+*Fellowship for Ph.D. studies*
+
+Concordia International Tuition Award of Excellence  2018-2021
+
+*Tuition waiver for Ph.D. studies*
 
 Convocatoria Abierta I Fase (Senescyt, Ecuador)  2014
 
