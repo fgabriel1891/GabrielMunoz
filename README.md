@@ -1,6 +1,6 @@
-Gabriel Muñoz 
+#Gabriel Muñoz 
 
-PhD Student. 
+**PhD Student** 
 Community Ecology and Biogeography lab 
 Concordia University
 
