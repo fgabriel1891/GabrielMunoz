@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gabriel Muñoz/ PhD student"
+title                    : "Gabriel Muñoz"
 title_separator          : "-"
 name                     : &name "Gabriel Muñoz"
 description              : &description "PhD student @LessardLab"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fgabriel1891.github.io/GabrielMunoz/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fgabriel1891/GabrielMunoz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &NasuaResearch
+  username               : NasuaResearch
 facebook:
   username               :
   app_id                 :
@@ -85,9 +85,8 @@ author:
   bio              : "PhD. Student. Community Ecology and Biogeography"
   location         : "Montreal-Canada"
   employer         : "Concordia University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.ec/citations?user=Vj1FAV0AAAAJ&hl=es"
-  email            :
+  email            : "gabriel.munoz@concordia.ca"
   researchgate     : "https://www.researchgate.net/profile/Gabriel_Munoz2"
   uri              :
   bitbucket        :
@@ -109,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "NasuaResearch"
   vine             :
   weibo            :
   xing             :
