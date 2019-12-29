@@ -9,9 +9,6 @@ redirect_from:
 
 
 
-Welcome to my personal page!
-=======
-
 I'm a Ph.D. *student* at  the [Community Ecology and Biogeography Lab](http://jeanphilippelessard.com/) (a.k.a. LessardLab) at [Concordia University](https://www.concordia.ca/) located in Montreal-Canada. In addition, I have a M.Sc. in Ecology and Evolution from the [University of Amsterdam (UvA)](https://www.uva.nl/en) where I worked with the [Biogeography and Macroecology research group (BIOMAC)](https://www.biomac.org/) in the Netherlands. I cursed my BSc. in Biology along with a *minor* in Environmental management at [Universidad San Francisco de Quito (USFQ)](https://www.usfq.edu.ec/Paginas/Inicio.aspx) in Ecuador.
 
 -----
