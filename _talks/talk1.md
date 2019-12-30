@@ -7,7 +7,9 @@ venue: "QCBS 2019 Symposia"
 date: 2019-31-18
 location: "Montreal-Canada"
 ---
+10th Annual QCBS Symposium 
 
-Talk: Above-below ground multi-trophic network assembly of a novel alpine ecosystem
 
-Poster: New mechanistic insights into the reorganization of multi-trophic communities in novel ecosystems
+**Talk:** Above-below ground multi-trophic network assembly of a novel alpine ecosystem
+
+**Poster:** New mechanistic insights into the reorganization of multi-trophic communities in novel ecosystems
